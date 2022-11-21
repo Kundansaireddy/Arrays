@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cfae34f-d58a-4210-81dc-3586eedb6cb7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/checkIfSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leftRotateByOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moveZeroesToEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/removeDuplicatesInSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leadersOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leftRotateByN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +23,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="68e38d55-b405-4f68-a463-e9a8dfd7767c" />
+        <option name="url" value="https://github.com/Kundansaireddy/Arrays.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,6 +49,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="secondLargest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="secondLargest" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
